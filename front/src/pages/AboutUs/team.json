@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "6335b8db39217f29f0585bc2",
+        "nickname": "Sankar",
+        "fullname": "Tsitrin Yaroslav",
+        "rol": "Front End Developer",
+        "img": "https://res.cloudinary.com/dpfos5rns/image/upload/v1702654884/mcoqux0dfypndo0qxh7r.png",
+        "network":{
+        }
+
+    },
+    {
+        "_id": "6335b95d39217f29f0585bc5",
+        "nickname": "Naftari",
+        "fullname": "Sukhanov Alexander",
+        "rol": "Back End Developer",
+        "img": "https://res.cloudinary.com/dpfos5rns/image/upload/v1702655083/woivycc3j8jc8rrhxshf.png",
+        "network":{
+        }
+
+    }
+]
